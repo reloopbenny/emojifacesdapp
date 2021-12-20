@@ -9,7 +9,7 @@ You can either use **the default EmojiFaces smart contract** and play with it or
 Use the default **EmojiFaces Smart Contract:**
 
 ```bash
-  git clone https://github.com/codingwithdidem/emojifacesdapp.git
+  git clone https://github.com/reloopbenny/emojifacesdapp.git
   cd emojifacesdapp
   npm install
   npm run dev
@@ -18,7 +18,7 @@ Use the default **EmojiFaces Smart Contract:**
 Use **Your Own Smart Contract:**
 
 ```bash
-  git clone https://github.com/codingwithdidem/emojifacesdapp.git
+  git clone https://github.com/reloopbenny/emojifacesdapp.git
   cd emojifacesdapp
   npm install
   npm run dev
@@ -37,17 +37,3 @@ Use **Your Own Smart Contract:**
 **Client:** React, TailwindCSS, web3
 
 **Server:** Alchemy, NextJS, Hardhat
-
-## 🔗 Youtube Series For This Project
-
-You can also watch tutorial videos for this project
-
-[![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=AXwS_2EKZSI&list=PLDq0IUpYONvQ2yfbMuL8G0VUu_a3uTR8U)
-
-## Screenshots
-
-![App Screenshot](https://raw.githubusercontent.com/codingwithdidem/emojifacesdapp/master/public/demo.png)
-
-## Support
-
-For support, email codingwithdidem@gmail.com
